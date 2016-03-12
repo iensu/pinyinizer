@@ -1,0 +1,30 @@
+{
+  "name": "pinyinizer",
+  "version": "0.1.0",
+  "description": "Add pinyin tone diactrics to a string",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/iensu/pinyinizer.git"
+  },
+  "keywords": [
+    "pinyin",
+    "string",
+    "chinese",
+    "tone",
+    "diactrics"
+  ],
+  "author": "Jens Östlund",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iensu/pinyinizer/issues"
+  },
+  "homepage": "https://github.com/iensu/pinyinizer#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  }
+}
