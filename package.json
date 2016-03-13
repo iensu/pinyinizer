@@ -1,7 +1,7 @@
 {
   "name": "pinyinizer",
   "version": "0.1.0",
-  "description": "Add pinyin tone diactrics to a string",
+  "description": "Add pinyin tone diacritics to a string",
   "main": "index.js",
   "scripts": {
     "test": "mocha test/"
@@ -15,7 +15,7 @@
     "string",
     "chinese",
     "tone",
-    "diactrics"
+    "diacritics"
   ],
   "author": "Jens Östlund",
   "license": "ISC",
