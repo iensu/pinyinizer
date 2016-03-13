@@ -1,6 +1,6 @@
 {
   "name": "pinyinizer",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Add pinyin tone diacritics to a string",
   "main": "index.js",
   "scripts": {
