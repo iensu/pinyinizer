@@ -1,0 +1,28 @@
+{
+  "name": "pinyinizer",
+  "description": "Add pinyin tone diacritics to a string",
+  "main": "index.js",
+  "authors": [
+    "Jens Östlund"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "pinyin",
+    "string",
+    "chinese",
+    "tone",
+    "diacritics"
+  ],
+  "homepage": "https://github.com/iensu/pinyinizer",
+  "moduleType": [
+    "globals",
+    "node"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
