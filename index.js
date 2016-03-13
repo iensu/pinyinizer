@@ -83,7 +83,7 @@
   if (typeof module !== 'undefined' && module.exports) {
     module.exports = pinyinizer;
   } else if (window) {
-    window.WindowSlider = pinyinizer;
+    window.Pinyinizer = pinyinizer;
   } else {
     global.Pinyinizer = pinyinizer;
   }
